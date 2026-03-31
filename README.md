@@ -50,27 +50,15 @@ Jupyter Notebook / Google Colab
 
 ---
 
-### Running Instructions
+## How to Run
+1. Open the notebook in Jupyter
+2. Run all cells
+3. Select:
+   - Start node
+   - Goal node
+   - Algorithm
+4. Click "Run"
 
-# Step 1: Install dependencies
-
-Run the first cell in the notebook:
-
-pip install matplotlib networkx numpy ipywidgets
-
-# Step 2: Run the notebook
-
-Execute all cells
-
-# Step 3: Use the application
-
-Select start node
-
-Select goal node
-
-Choose algorithm
-
-Click Run
 
 ---
 
